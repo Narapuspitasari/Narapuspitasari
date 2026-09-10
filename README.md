@@ -60,3 +60,5 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 │  🎨 UI/UX                │
 │                          │
 └──────────────────────────┘
+```text
+</td>
