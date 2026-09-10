@@ -47,15 +47,11 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 </td>
 <td width="45%">
 
-```text
-┌──────────────────────────┐
-│       NARA'S FOCUS       │
-├──────────────────────────┤
-│                          │
-│  📊 Data                 │
-│  🤖 Machine Learning     │
-│  🌐 Web Development      │
-│  🗺️ WebGIS                │
-│  🎨 UI/UX                │
-│                          │
-└──────────────────────────┘
+     ## NARA'S FOCUS
+                            
+  📊 Data                 
+  🤖 Machine Learning     
+  🌐 Web Development      
+  🗺️ WebGIS                
+  🎨 UI/UX                
+                       
